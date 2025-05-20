@@ -1,1 +1,1 @@
-Buatlah sebuah program berbasis web sederhana untuk sistem pendaftaran pasien di puskesmas. Program ini hanya mencakup fitur login, registrasi akun pasien, dan tampilan dashboard pasien setelah login berhasil.
+Buatlah sebuah program berbasis web sederhana untuk sistem pendaftaran akun pasien di puskesmas. Program ini hanya mencakup fitur login, registrasi akun pasien, dan tampilan dashboard pasien setelah login berhasil.
